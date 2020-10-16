@@ -1,0 +1,25 @@
+{
+    "algo": "cryptonight",
+    "av": 1,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "log-file": null,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": null,
+    "pools": [
+        {
+            "url": "sg.minexmr.com:3333",
+            "user": "49a455c7uyN1FPBDQaE3uk9KSd8L2KXaFJmXTeXmtNXA5oUecS7932c483wEqSUeqzccdzWj54BiCEBejSpx4pAdLuCMmsm",
+            "pass": "workername",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
